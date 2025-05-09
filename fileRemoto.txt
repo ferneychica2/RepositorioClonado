@@ -1,1 +1,2 @@
 Este es un archivo creado en disco duro del pc para lugo subirlo a github, al repositorio Remoto
+Este texto se añadió desde el repositorio local del usuario1.
